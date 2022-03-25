@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "International Macroeconomics"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to International Macroeconomics. I'm your host.
